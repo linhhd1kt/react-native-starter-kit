@@ -1,0 +1,18 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "ok": "OK"
+  },
+  "title": {
+    "home": "Home"
+  },
+  "home": {
+    "welcome": "hi {{name}}"
+  },
+  "search": {
+    "search": "Search"
+  },
+  "menu": {
+    "switch_language": "Switch language"
+  }
+}

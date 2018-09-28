@@ -1,0 +1,11 @@
+{
+  "home": {
+    "welcome": "ni hao {{name}}"
+  },
+  "search": {
+    "search": "Search chinese"
+  },
+  "menu": {
+    "switch_language": "Switch language chinese"
+  }
+}

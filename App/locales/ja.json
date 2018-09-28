@@ -1,0 +1,11 @@
+{
+  "home": {
+    "welcome": "o hai o {{name}}"
+  },
+  "search": {
+    "search": "Search japan"
+  },
+  "menu": {
+    "switch_language": "Switch language japan"
+  }
+}
